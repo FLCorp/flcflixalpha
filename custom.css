@@ -86,3 +86,17 @@ header{
     font-family: Arial;
     font-size: 50px;
 }
+.news{
+    color: red;
+    font-size: 50px;
+    background-color: transparent;
+    text-align: center;
+}
+.news-buton{
+    background-color: red;
+    text-align: center;
+    color: white;
+}
+.news-box{
+    text-align: center;
+}
